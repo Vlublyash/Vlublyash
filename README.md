@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Vlublyash
-- 
-- 👀 I’m interested in: js, crypto, web3
-- 🌱 I’m currently learning web3
-- 💞️ I’m looking to collaborate on @odysseyexchange
+ 
+- 👀 I’m interested in: js, crypto, web3, telegrambot
+- 🌱 I’m currently learning web3, telegram bot
 - 📫 feedback: vlublyash@gmail.com 
 
 <!---
